@@ -1,0 +1,214 @@
+{
+  "Search": {
+    "message": "Потърси",
+    "description": "Search"
+  },
+  "Show": {
+    "message": "Покажи",
+    "description": "Show"
+  },
+  "Help": {
+    "message": "Помощ",
+    "description": "Help"
+  },
+  "Update": {
+    "message": "Ъпдейт (нова версия)",
+    "description": "Update"
+  },
+  "Reset": {
+    "message": "Нулирай",
+    "description": "Reset"
+  },
+  "Loading": {
+    "message": "Зарежда се",
+    "description": "Loading"
+  },
+  "Select": {
+    "message": "Избери",
+    "description": "Select"
+  },
+  "Yes": {
+    "message": "Да",
+    "description": "Yes"
+  },
+  "No": {
+    "message": "Не",
+    "description": "No"
+  },
+  "NothingFound": {
+    "message": "Нищо не беше намерено",
+    "description": "Nothing Found"
+  },
+  "Not_Found": {
+    "message": "Не е намерено!",
+    "description": "Anime/Manga Not Found"
+  },
+  "NoEntries": {
+    "message": "Сигурен, че не обърка нещо? Според мен, не си написал нищо.",
+    "description": "No Entries"
+  },
+  "fullscreen": {
+    "message": "голям екран",
+    "description": "fullscreen"
+  },
+  "close": {
+    "message": "затвори",
+    "description": "close"
+  },
+  "All": {
+    "message": "Всички",
+    "description": "All"
+  },
+  "Package_Description": {
+    "message": "Автоматично следим епизодите, които гледаш и ги добавяме към твоят MyAnimeList/AniList/Kitsu акаунт. Тази апликация работи в доста голями сайтове.",
+    "description": "Description MALSync"
+  },
+  "UI_Status": {
+    "message": "Статус:",
+    "description": "Status"
+  },
+  "UI_Status_watching_anime": {
+    "message": "Гледам",
+    "description": "Watching"
+  },
+  "UI_Status_watching_manga": {
+    "message": "Чета",
+    "description": "Reading"
+  },
+  "UI_Status_Completed": {
+    "message": "Завършен",
+    "description": "Completed"
+  },
+  "UI_Status_OnHold": {
+    "message": "Задържан",
+    "description": "On-Hold"
+  },
+  "UI_Status_Dropped": {
+    "message": "Спряно",
+    "description": "Dropped"
+  },
+  "UI_Status_planTo_anime": {
+    "message": "Мисля да Гледам",
+    "description": "Plan to Watch"
+  },
+  "UI_Status_planTo_manga": {
+    "message": "Мисля да Чета",
+    "description": "Plan to Read"
+  },
+  "UI_Episode": {
+    "message": "Епизод:",
+    "description": "Episode"
+  },
+  "UI_Volume": {
+    "message": "Звук:",
+    "description": "Volume"
+  },
+  "UI_Chapter": {
+    "message": "Глава:",
+    "description": "Chapter"
+  },
+  "UI_Score": {
+    "message": "Вашият Резултат:",
+    "description": "Score"
+  },
+  "UI_Score_Not_Rated": {
+    "message": "Не си гласувал",
+    "description": "Text if nothing is selected in the rating dropdown"
+  },
+  "UI_Score_Masterpiece": {
+    "message": "(10) Перфектно",
+    "description": "Masterpiece - Score"
+  },
+  "UI_Score_Great": {
+    "message": "(9) Чудесно",
+    "description": "Great - Score"
+  },
+  "UI_Score_VeryGood": {
+    "message": "(8) Доста Добро",
+    "description": "Very Good - Score"
+  },
+  "UI_Score_Good": {
+    "message": "(7) Добро",
+    "description": "Good - Score"
+  },
+  "UI_Score_Fine": {
+    "message": "(6) Става",
+    "description": "Fine - Score"
+  },
+  "UI_Score_Average": {
+    "message": "(5) Средно",
+    "description": "Average - Score"
+  },
+  "UI_Score_Bad": {
+    "message": "(4) Лошо",
+    "description": "Bad - Score"
+  },
+  "UI_Score_VeryBad": {
+    "message": "(3) Много лошо",
+    "description": "Very Bad - Score"
+  },
+  "UI_Score_Horrible": {
+    "message": "(2) Отвратително",
+    "description": "Horrible - Score"
+  },
+  "UI_Score_Appalling": {
+    "message": "(1) Ужасно",
+    "description": "Appalling - Score"
+  },
+  "kitsuClass_authentication_Password": {
+    "message": "Парола",
+    "description": "Password"
+  },
+  "kitsuClass_authentication_Login": {
+    "message": "Влезни в акаунта си",
+    "description": "Login"
+  },
+  "bookmarksItem_Days": {
+    "message": "Дни",
+    "description": "Days"
+  },
+  "bookmarksItem_Day": {
+    "message": "Ден",
+    "description": "Day"
+  },
+  "bookmarksItem_Hours": {
+    "message": "Часове",
+    "description": "Hours"
+  },
+  "bookmarksItem_Hour": {
+    "message": "Час",
+    "description": "Hour"
+  },
+  "bookmarksItem_mins": {
+    "message": "минути",
+    "description": "mins"
+  },
+  "settings_Thumbnails_Large": {
+    "message": "Голям",
+    "description": "Thumbnails Large"
+  },
+  "settings_Thumbnails_Medium": {
+    "message": "Среден",
+    "description": "Thumbnails Medium"
+  },
+  "settings_Thumbnails_Small": {
+    "message": "Малък",
+    "description": "Thumbnails Small"
+  },
+  "settings_miniMAL_Display": {
+    "message": "Покажи в",
+    "description": "Display to the"
+  },
+  "settings_miniMAL_Display_Left": {
+    "message": "Ляво",
+    "description": "miniMAL Display Left"
+  },
+  "settings_miniMAL_Display_Right": {
+    "message": "Дясно ",
+    "description": "miniMAL Display Right"
+  },
+  "settings_Shortcuts_Skip_Forward": {
+    "message": "Пропусни интрото",
+    "description": "Description for the the opening skip shortcut"
+  }
+}
